@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'almagrade'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEF9DE4C49BB409E8D8A6F33BF24BEBA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8216F1AFDBC4FD9931E8F2AF5D3D78C }}
